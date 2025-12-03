@@ -20,9 +20,7 @@
 asar extract app.asar ./app
 ```
 
-
-
-
+![img](解包.png)
 
 进入package.json所在目录
 
