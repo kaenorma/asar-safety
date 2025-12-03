@@ -67,7 +67,7 @@ npm start
 
 完成了游戏的启动
 
-![img](electron asar文件破解.assets/electron_m9LyrRSpFW.png)
+![img](运行.png)
 
 可以写成bat放在package.json同目录下
 
